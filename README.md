@@ -1,6 +1,6 @@
 # Bussines app
 
-## An application base on subscription 
+## An application based on subscription 
 
 This website is in progress i let here some photos of what I have done until now.
 
